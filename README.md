@@ -1,8 +1,10 @@
 # UnixConsoleGame
 
-It is an UNIX compliant console applications that allows multiple client programs to connect simultaneously to server program and play a game - drive their own taxi on a map. Clients can gain or lose points based on specific conditions (ex. collisions or finishing a task).  
+It is an UNIX compliant console applications that allows multiple client programs to connect simultaneously to a server program and play a game - drive their own taxi on a map. Clients can gain or lose points based on specific conditions (ex. collisions or finishing a task).  
   
-Application uses sockets and multithreading.
+Application uses sockets and multithreading.  
+  
+More information in Polish can be found in documentation folder.
 
 ## Purpose
 
